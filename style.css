@@ -1,0 +1,48 @@
+.heading{
+    width: 100%;
+    font-size: 30px;
+    font-family:  Courgette;
+}
+.bedroom{
+    font-size: 22px;
+    font-family: Dosis;
+    width: 15%;
+    height: 8%;
+}
+.tv{
+    font-size: 22px;
+    font-family: Dosis;
+    width: 15%;
+    height: 8%;
+}
+.desk{
+    font-size: 22px;
+    font-family: Dosis;
+    width: 15%;
+    height: 8%;
+}
+.botle{
+    font-size: 22px;
+    font-family: Dosis;
+    width: 15%;
+    height: 8%;
+}
+.fruit{
+    font-size: 22px;
+    font-family: Dosis;
+    width: 15%;
+    height: 8%;
+}
+.heading{
+    width: 100%;
+}
+.body{
+    font-family: Dosis;
+}
+.objects{
+    font-size: large;
+}
+#tv{
+    width: 700px;
+    height: 500px;
+}
