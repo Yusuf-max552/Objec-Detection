@@ -1,56 +1,25 @@
-.heading{
-    width: 100%;
-    font-size: 30px;
-    font-family:  Courgette;
+.header{
+    color: black;
+    font-size: 25px;
+    box-shadow: 5px 5px 5px rgb(248, 106, 106);
 }
-.bedroom{
-    font-size: 22px;
-    font-family: Dosis;
-    width: 15%;
-    height: 8%;
+.header:hover{
+    width: 220px;
 }
-.tv{
-    font-size: 22px;
-    font-family: Dosis;
-    width: 15%;
-    height: 8%;
+body{
+    background-size: cover;
+    background-position: center;
 }
-.desk{
-    font-size: 22px;
-    font-family: Dosis;
-    width: 15%;
-    height: 8%;
+
+.link {
+    font-size: 20px;
+    background: white;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
 }
-.botle{
-    font-size: 22px;
-    font-family: Dosis;
-    width: 15%;
-    height: 8%;
-}
-.fruit{
-    font-size: 22px;
-    font-family: Dosis;
-    width: 15%;
-    height: 8%;
-}
-.heading{
-    width: 100%;
-}
-.body{
-    font-family: Dosis;
-}
-.objects{
-    font-size: large;
-}
-#tv{
-    width: 700px;
-    height: 500px;
-}
-#laptop{
-    width: 800px;
-    height: 400px
-}
-#fruits{
-    width: 800px;
-    height: 550px;
+
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
 }
